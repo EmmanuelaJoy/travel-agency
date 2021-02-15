@@ -1,10 +1,10 @@
-# Moringa Project 1
+# Travelling Agency
 
-<h1>My Portfolio</h1>
+<h1>Happy Trails Travelling Agency</h1>
 <table>
 <tr>
 <td>
-  A webpage displaying information about me such as my background,my projects and my hobbies.
+  A webpage displaying information about Happy Trails Travel Agency.
 </td>
 </tr>
 </table>
@@ -46,6 +46,6 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 [Emmanuela Joy ](https://github.com/EmmanuelaJoy)
 
-## [License](https://github.com/EmmanuelaJoy/my-portfolio/blob/main/LICENSE)
+## [License](https://github.com/EmmanuelaJoy/travel-agency/blob/main/LICENSE)
 
 MIT © [Emmanuela Joy ](https://github.com/EmmanuelaJoy)
